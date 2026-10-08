@@ -1,0 +1,23 @@
+.project-official-link{
+  align-items:center;
+  color:#56744e;
+  display:flex;
+  font-size:10px;
+  font-weight:600;
+  gap:5px;
+  margin:-3px 0 11px;
+  width:fit-content;
+}
+.project-official-link:hover{text-decoration:underline}
+.card-schedule .opening-status{flex:1}
+.deadline-rounds{border-top:1px solid #eff1eb;margin-top:18px;padding-top:12px}
+.deadline-rounds-title{align-items:center;color:#8d9987;display:flex;font-size:10px;gap:7px;margin-bottom:8px}
+.deadline-rounds-title svg{color:#9fae93}
+.deadline-round{align-items:center;display:grid;gap:6px;grid-template-columns:minmax(0,1fr) auto auto;padding:5px 0}
+.deadline-round>span{color:#76886f;font-size:10px;overflow-wrap:anywhere}
+.deadline-round>strong{color:#5d7557;font-size:10px;font-weight:600;white-space:nowrap}
+.deadline-round>small{color:#a0aa99;font-size:9px;text-align:right;white-space:nowrap}
+@media(max-width:600px){.deadline-round{grid-template-columns:minmax(0,1fr) auto}.deadline-round>small{display:none}}
+.requirement-name strong .submission-note{background:#e9f1e3;border-radius:4px;color:#638052;font-size:8px;font-weight:600;margin-left:7px;padding:3px 5px}
+.interview-panel h3{display:flex;align-items:center;gap:8px}.interview-panel h3 svg{color:#789461}.interview-status{display:block;margin-bottom:9px;font-size:14px!important;color:#607d4b}.interview-status.possible{color:#a06f32}.interview-status.required{color:#a2504a}.interview-status.unconfirmed{color:#8b8873}
+.application-fee-panel h3{display:flex;align-items:center;gap:8px}.application-fee-panel h3 svg{color:#789461}.fee-unconfirmed{color:#8b8873!important;font-size:15px!important}

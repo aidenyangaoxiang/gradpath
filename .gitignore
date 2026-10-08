@@ -1,0 +1,13 @@
+# 依赖和构建产物
+node_modules/
+dist/
+test-results/
+*.log
+.DS_Store
+
+# 每位用户自己的私有数据；绝不能提交到公开仓库
+data/
+.env
+
+# 同一工作目录中的独立项目，不属于 GradPath 开源仓库
+academic-website/

@@ -1,0 +1,44 @@
+[
+  {
+    "file": "ucsd.png",
+    "school": "UC San Diego",
+    "assetUrl": "https://cdn.ucsd.edu/cms/decorator-5/styles/img/ucsd-footer-logo-white.png",
+    "sourcePage": "https://brand.ucsd.edu/logos/primary-campus-logo/index.html",
+    "retrievedAt": "2026-09-30"
+  },
+  {
+    "file": "cmu.png",
+    "school": "Carnegie Mellon University",
+    "assetUrl": "https://live-cmu-brand.pantheonsite.io/sites/default/files/cmu-brand-files/inline-images/cmu-wordmark-square-w-on-r%201.png",
+    "sourcePage": "https://brand.cmu.edu/visual-identity/carnegie-mellon-trademarks/university-logo",
+    "retrievedAt": "2026-09-30"
+  },
+  {
+    "file": "northwestern.png",
+    "school": "Northwestern University",
+    "assetUrl": "https://www.northwestern.edu/brand/images/northwestern-wordmark.png",
+    "sourcePage": "https://www.northwestern.edu/brand/visual-identity/logos-lockups/",
+    "retrievedAt": "2026-09-30"
+  },
+  {
+    "file": "nyu-tandon.svg",
+    "school": "NYU Tandon",
+    "assetUrl": "https://engineering.nyu.edu/themes/custom/tandon/images/Tandon_logo.svg",
+    "sourcePage": "https://engineering.nyu.edu/",
+    "retrievedAt": "2026-09-30"
+  },
+  {
+    "file": "cornell.svg",
+    "school": "Cornell University",
+    "assetUrl": "https://www.cs.cornell.edu/themes/custom/dubdub_default/templates/assets/emblem.svg",
+    "sourcePage": "https://www.cs.cornell.edu/",
+    "retrievedAt": "2026-09-30"
+  },
+  {
+    "file": "cornell-tech.svg",
+    "school": "Cornell Tech",
+    "assetUrl": "https://www.cs.cornell.edu/themes/custom/dubdub_default/templates/assets/images/cornell-tech.svg",
+    "sourcePage": "https://www.cs.cornell.edu/",
+    "retrievedAt": "2026-09-30"
+  }
+]
